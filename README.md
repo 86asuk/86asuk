@@ -1,39 +1,36 @@
 ![Web Developer](https://scontent.fdac99-1.fna.fbcdn.net/v/t1.18169-9/12065712_1066555686717949_5935016294473539333_n.jpg?_nc_cat=101&ccb=1-6&_nc_sid=e3f864&_nc_eui2=AeHd1GzvuXTe2W0S4DMqltZDgUTOGPhXRuWBRM4Y-FdG5V7zSe47Dyk7jwHKexW2o-GdayvE65EAen_zvBZAAQoF&_nc_ohc=PurYTnTGTQkAX-jbvVA&tn=2mXJohGmF0eBAAtF&_nc_ht=scontent.fdac99-1.fna&oh=00_AT986LscZPLBXO0su-dcUdDs4ygYJ9BAEWRwRMllgtLpTQ&oe=629DA3B0)
-# Hi there 👋, I'm Isfak Ahammad
-#### Web Developer
+<h1 align="center">Hi 👋, I'm Isfak Ahammad</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=86asuk&label=Profile%20views&color=0e75b6&style=flat" alt="86asuk" /> </p>
 
-I'm a Front-End developer who is passionate about making error free websites with 100% client satisfaction, I have a passion for learning sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal oriented and always work an end goal in mind. Over the past years, I created some websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=86asuk" alt="86asuk" /></a> </p>
 
-Skills: REACT / JS / HTML / CSS
+<p align="left"> <a href="https://twitter.com/isfak_ahammad" target="blank"><img src="https://img.shields.io/twitter/follow/isfak_ahammad?logo=twitter&style=for-the-badge" alt="isfak_ahammad" /></a> </p>
 
-- 🔭 I’m currently working on MERN 
-- 🌱 I’m currently learning javaScript 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web Development 
+- 🔭 I’m currently working on **MERN**
 
+- 🌱 I’m currently learning **ReactJS**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/86asuk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/isfak.asuk)  [<img 
+- 👯 I’m looking to collaborate on **Github**
 
-<h1 align="left">Connect with me:</h1>
+- 💬 Ask me about **Web Development**
+
+- 📫 How to reach me **86asuk@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/isfak_ahammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isfak_ahammad" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/isfak-ahammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="isfak-ahammad" height="30" width="40" /></a>
 <a href="https://fb.com/isfak.asuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isfak.asuk" height="30" width="40" /></a>
+<a href="https://instagram.com/isfakahammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isfakahammad" height="30" width="40" /></a>
 </p>
 
-src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/isfak_ahammad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/isfak-ahammad)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=86asuk&show_icons=true&locale=en&layout=compact" alt="86asuk" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=86asuk)](https://github.com/ryo-ma/github-profile-trophy)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=86asuk&show_icons=true&locale=en" alt="86asuk" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=86asuk)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=86asuk&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=86asuk)  
-
-![GitHub metrics](https://metrics.lecoq.io/86asuk)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=86asuk)  
-
-![Profile views](https://gpvc.arturio.dev/86asuk)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=86asuk&" alt="86asuk" /></p>
