@@ -3,7 +3,7 @@
 #### Web Developer
 
 
-I'm a Front-End developer who is passionate about making errorfree websites with 100% client satisfaction, I have a passion for learning sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal oriented and always work an end goal in mind. Over the past years, I created some websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
+I'm a Front-End developer who is passionate about making error free websites with 100% client satisfaction, I have a passion for learning sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal oriented and always work an end goal in mind. Over the past years, I created some websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
 Skills: REACT / JS / HTML / CSS
 
